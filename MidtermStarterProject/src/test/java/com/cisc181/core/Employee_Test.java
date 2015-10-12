@@ -47,7 +47,7 @@ public class Employee_Test {
 
 	@Test
 	public void test() {
-		assertEquals(1,1);
+		assertEquals(1, 1);
 	}
 
 }
